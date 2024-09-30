@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/eirik/Oppgave_uke_1/Oppgave_uke_1.csproj",
+      "projectUniqueName": "/home/eirik/code/Oppgave_uke_1/Oppgave_uke_1.csproj",
       "projectName": "Oppgave_uke_1",
-      "projectPath": "/home/eirik/Oppgave_uke_1/Oppgave_uke_1.csproj",
+      "projectPath": "/home/eirik/code/Oppgave_uke_1/Oppgave_uke_1.csproj",
       "packagesPath": "/home/eirik/.nuget/packages/",
-      "outputPath": "/home/eirik/Oppgave_uke_1/obj/",
+      "outputPath": "/home/eirik/code/Oppgave_uke_1/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/eirik/.nuget/NuGet/NuGet.Config"
