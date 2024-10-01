@@ -12,3 +12,4 @@
 /home/eirik/code/Oppgave_uke_1/obj/Debug/net8.0/Oppgave_uke_1.pdb
 /home/eirik/code/Oppgave_uke_1/obj/Debug/net8.0/Oppgave_uke_1.genruntimeconfig.cache
 /home/eirik/code/Oppgave_uke_1/obj/Debug/net8.0/ref/Oppgave_uke_1.dll
+/home/eirik/code/Oppgave_uke_1/obj/Debug/net8.0/Oppgave_uke_1.sourcelink.json
