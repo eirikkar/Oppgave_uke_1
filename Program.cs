@@ -10,7 +10,8 @@ class Program
 
     /* Her er en funksjon som ber brukeren om å skrive inn navnet sitt og returnerer en hilsen til brukeren.
      Jeg har brukt en while loop for å sjekke om brukeren har skrevet inn et navn.
-     Hvis brukeren ikke har skrevet inn et navn vil brukeren få en feilmelding, og må skrive navnet på nytt før koden avsluttes */
+     Hvis brukeren ikke har skrevet inn et navn vil brukeren få en feilmelding,
+    og må skrive navnet på nytt før koden avsluttes */
     public static string UserGreetings()
     {
         while (true)
@@ -55,15 +56,14 @@ class Program
         {
             Console.WriteLine(bil);
         }
-        // Jeg har laget en liste og legger til frukt.
+        // Jeg har laget en liste som skal inneholde frukt, bruker kan legge til 4 frukt
+        //i konsollen med frukt.Add i en for loop
         List<string> frukt = new List<string>();
-        frukt.Add("Eple");
-        frukt.Add("Pære");
-        frukt.Add("Banan");
-        frukt.Add("Appelsin");
-        frukt.Add("Kiwi");
-        frukt.Add("Drue");
-
+        for (int i = 0; i < 4; i++)
+        {
+            Console.Write("Legg til en frukt:");
+            frukt.Add(Console.ReadLine());
+        }
         Console.WriteLine();
 
         // Jeg har brukt en foreach loop for å skrive ut alle elementene i listen frukt.
